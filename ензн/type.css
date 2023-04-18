@@ -1,0 +1,141 @@
+.navbar {
+    width: 1225px;
+    height: 85px;
+    background-color: black;
+
+}
+
+.gard {
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 39px;
+    font-size: 20px;
+}
+
+.rip {
+    color: white;
+
+    display: flex;
+}
+
+.home {
+    position: absolute;
+    top: 28px;
+    left: 850px;
+
+}
+
+.shop {
+    position: absolute;
+    top: 28px;
+    left: 920px;
+
+}
+
+.plp {
+    position: absolute;
+    top: 28px;
+    left: 990px;
+
+}
+
+.blog {
+    position: absolute;
+    top: 28px;
+    left: 1060px;
+
+}
+
+.box {
+    width: 1225px;
+    height: 500px;
+    background-color: black;
+    color: white;
+
+}
+
+.uou {
+    width: 95px;
+    position: absolute;
+    top: 200px;
+    left: 950px;
+}
+
+.ouo {
+    width: 190px;
+    position: absolute;
+    top: 140px;
+    left: 875px;
+}
+
+.opo {
+    width: 60px;
+    position: absolute;
+    top: 250px;
+    left: 900px;
+}
+
+.p1 {
+    font-size: 13px;
+
+    position: absolute;
+    top: 140px;
+    left: 150px;
+
+}
+
+.p2 {
+    font-size: 30px;
+    position: absolute;
+    top: 140px;
+    left: 150px;
+}
+
+.p3 {
+    font-size: 10px;
+    position: absolute;
+    top: 230px;
+    left: 150px;
+}
+
+.knop {
+    width: 80px;
+    background-color: rgb(182, 30, 182);
+    height: 20px;
+    color: black;
+    border-radius: 10px;
+    position: absolute;
+    top: 270px;
+    left: 150px;
+}
+
+.knop1 {
+    width: 80px;
+    background-color: black;
+    height: 20px;
+    color: white;
+    border-radius: 10px;
+    position: absolute;
+    top: 270px;
+    left: 250px;
+    border: 1px solid #fff;
+
+}
+
+.p4 {
+    font-size: 17px;
+    color: #fff;
+    position: absolute;
+    top: 300px;
+    left: 150px;
+
+}
+.box2{
+    display: flex;
+    width: 100%;
+    height: 180px;
+    position: absolute;
+    top: 340px;
+    left: 150px;
+}
